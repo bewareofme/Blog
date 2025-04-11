@@ -11,3 +11,5 @@ Backend:node,sj
 Authentication:next-auth
 
 I have not implemented the unit test for API, 
+
+this was made using nextjs
